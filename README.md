@@ -2,6 +2,12 @@
 
 create a project about learn typescript
 
+## Install
+
+```bash
+npm install
+```
+
 ## Start
 
 ```bash
